@@ -150,11 +150,11 @@ export default function Home() {
               </p>
 
               <h1 className="mt-3 text-3xl font-black leading-tight md:text-5xl">
-                다낭 청룡열차
+                다낭 청룡열차 공식 홈페이지
               </h1>
 
               <p className="mt-3 text-base text-gray-200 md:text-lg">
-                마사지 & 이발소 공식 홈페이지
+                마사지 & 이발소 가격 · 이용안내 · 예약
               </p>
 
               <div className="mt-6 flex flex-col gap-3 sm:flex-row">
