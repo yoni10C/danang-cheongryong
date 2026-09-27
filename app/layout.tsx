@@ -12,6 +12,13 @@ export const metadata: Metadata = {
   description:
     "다낭 청룡열차 공식 홈페이지입니다. 청룡열차 마사지·이발소 A·B·C 코스 가격, 내부 시설, 이용 안내와 카카오톡 예약 정보를 확인하세요.",
 
+    verification: {
+  other: {
+    "naver-site-verification":
+      "b0d383ce6bd9d0e9ffa78c34559b040c1df6d605",
+  },
+},
+    
   keywords: [
     "다낭 청룡열차",
     "다낭 청룡열차 공식 홈페이지",
