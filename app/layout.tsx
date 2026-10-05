@@ -29,6 +29,11 @@ export const metadata: Metadata = {
     "다낭 마사지",
     "다낭 이발소",
   ],
+  
+icons: {
+  icon: "https://danangcheongryong.com/favicon.png",
+  shortcut: "https://danangcheongryong.com/favicon.png",
+},
 
   alternates: {
     canonical: "/",
