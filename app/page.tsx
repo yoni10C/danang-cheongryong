@@ -109,23 +109,32 @@ export default function Home() {
             <span className="text-[#e7c06e]">청룡열차</span>
           </a>
 
-          <nav className="flex items-center gap-4 text-xs font-semibold text-gray-300 sm:gap-6 sm:text-sm">
-            <a href="#price" className="transition hover:text-[#e7c06e]">
-              가격
-            </a>
+          <div className="flex items-center gap-3 sm:gap-4">
+  <nav className="flex items-center gap-4 text-xs font-semibold text-gray-300 sm:gap-6 sm:text-sm">
+    <a href="#price" className="transition hover:text-[#e7c06e]">
+      가격
+    </a>
 
-            <a href="#gallery" className="transition hover:text-[#e7c06e]">
-              내부
-            </a>
+    <a href="#gallery" className="transition hover:text-[#e7c06e]">
+      내부
+    </a>
 
-            <a href="#service" className="transition hover:text-[#e7c06e]">
-              서비스
-            </a>
+    <a href="#service" className="transition hover:text-[#e7c06e]">
+      서비스
+    </a>
 
-            <a href="#faq" className="transition hover:text-[#e7c06e]">
-              FAQ
-            </a>
-          </nav>
+    <a href="#faq" className="transition hover:text-[#e7c06e]">
+      FAQ
+    </a>
+  </nav>
+
+  <a
+    href="/zh"
+    className="rounded-full border border-[#d7ad58]/40 bg-[#091d38] px-3 py-2 text-xs font-black text-[#e7c06e] transition hover:bg-[#d7ad58] hover:text-[#06162b]"
+  >
+    中文
+  </a>
+</div>
         </div>
       </header>
 
